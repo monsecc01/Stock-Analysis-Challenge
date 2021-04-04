@@ -1,6 +1,6 @@
 
 # Stock Analysis with Excel VBA
-*Module 3 Challenge-VBA Stock Analysis
+*Module 3 Challenge-VBA Stock Analysis*
 
 ---
 
@@ -17,10 +17,12 @@ Analysis of stock data between 2017 and 2018 show that stock performances were m
 
 In terms of our code execution times, the refactored script was proven succesful at reducing script run time. The original script took over 1 second to run. In comparison, the refactored script took drastically less time to run, approximately 0.25 seconds. This is a time reduction of over 75%, which proves that the refactored code is more efficient. 
 
-*Original Script run time:
+*Original Script run time:*
+
 <img width="239" alt="Original 2017 Run Time" src="https://user-images.githubusercontent.com/81447450/113518837-5b7f7700-954e-11eb-896b-c8f403fd85da.png">
 
-*Refactored 2017 Run Time:
+*Refactored 2017 Run Time:*
+
 <img width="245" alt="Refactored 2017 Run Time" src="https://user-images.githubusercontent.com/81447450/113518839-5e7a6780-954e-11eb-9185-4d80a504f761.png">
 
 ## Summary: 
@@ -31,6 +33,7 @@ Some disadvantages of refactoring code is that it can be time consuming and, in 
 
 ### How do these pros and cons apply to refactoring the original VBA script?
 Refactoring of the original VBA script allowed for improvement in code execution. Script run time was reduced from over 1 second to approximately 0.25 seconds for both 2017 and 2018 data. 
+
 <img width="245" alt="Refactored 2017 Run Time" src="https://user-images.githubusercontent.com/81447450/113519619-05610280-9553-11eb-8c23-e89f19d5bb04.png">
 
 <img width="242" alt="Refactored 2018 Run Time" src="https://user-images.githubusercontent.com/81447450/113519622-072ac600-9553-11eb-8713-84076e95fd93.png">
